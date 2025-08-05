@@ -3,7 +3,7 @@
 ## 📊 Exploratory Data Analysis (EDA) on Titanic Dataset
 This project involves performing Exploratory Data Analysis (EDA) on the Titanic dataset to uncover insights and patterns that influenced passenger survival. The key tasks include:
 
-Data Cleaning: Handling missing values and data types.
+#Data Cleaning:# Handling missing values and data types.
 
 Visualization: Creating informative plots (heatmaps, pairplots, countplots) using Seaborn and Matplotlib to explore correlations and distributions.
 
